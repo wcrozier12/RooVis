@@ -54,7 +54,6 @@ class ArtistGraph extends Component {
             width={800}
             height={370}
             domainPadding={{ x: 150 }}
-            animate={{ duration: 1000 }}
             style={{ parent: { overflow: "visible", margin: "0" } }}
           >
             <VictoryAxis style={{ tickLabels: { fontSize: 6 } }} />
