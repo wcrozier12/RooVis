@@ -5,7 +5,7 @@ export const colors = {
   soul: "#6BE400",
   hipHop: "#6fff6b",
   popRb: "#D955A0",
-  indie: "#46B3B3",
+  indie: "#AF86AF",
   reggae: "#81003F",
   country: "#0D3184",
   funk: "#7C30B0",
@@ -856,7 +856,7 @@ export default [
     Subcategory: "Indie Electronica",
     Genre: "Indie",
     y: moment("2018-06-10 09:15 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-010 10:15 PM")
   },
   {
@@ -867,7 +867,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-07 06:30 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-07 07:15 PM")
   },
   {
@@ -878,7 +878,7 @@ export default [
     Subcategory: "Art Pop",
     Genre: "Indie",
     y: moment("2018-06-09 03:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 04:45 PM")
   },
   {
@@ -889,7 +889,7 @@ export default [
     Subcategory: "Indie Folk / Art Pop",
     Genre: "Indie",
     y: moment("2018-06-10 12:25 AM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-10 01:55 AM")
   },
   {
@@ -900,7 +900,7 @@ export default [
     Subcategory: "Indie Folk / Art Pop",
     Genre: "Indie",
     y: moment("2018-06-09 09:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 10:45 PM")
   },
   {
@@ -911,7 +911,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-10 05:00 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-010 06:00 PM")
   },
   {
@@ -922,7 +922,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-08 01:30 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-08 02:15 PM")
   },
   {
@@ -933,7 +933,7 @@ export default [
     Subcategory: "Indie Folk",
     Genre: "Indie",
     y: moment("2018-06-09 08:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 09:45 PM")
   },
   {
@@ -944,7 +944,7 @@ export default [
     Subcategory: "Indie Pop",
     Genre: "Indie",
     y: moment("2018-06-07 08:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-07 09:30 PM")
   },
   {
@@ -955,7 +955,7 @@ export default [
     Subcategory: "Electropop",
     Genre: "Indie",
     y: moment("2018-06-07 07:15 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-07 08:00 PM")
   },
   {
@@ -966,7 +966,7 @@ export default [
     Subcategory: "Electro-pop",
     Genre: "Indie",
     y: moment("2018-06-10 12:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-010 01:30 PM")
   },
   {
@@ -977,7 +977,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-08 02:15 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-08 03:15 PM")
   },
   {
@@ -988,7 +988,7 @@ export default [
     Subcategory: "Indie Pop",
     Genre: "Indie",
     y: moment("2018-06-10 01:30 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-010 02:15 PM")
   },
   {
@@ -999,7 +999,7 @@ export default [
     Subcategory: "Art Pop",
     Genre: "Indie",
     y: moment("2018-06-09 02:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 03:45 PM")
   },
   {
@@ -1010,7 +1010,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-08 09:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-08 10:30 PM")
   },
   {
@@ -1021,7 +1021,7 @@ export default [
     Subcategory: "Psych Rock",
     Genre: "Indie",
     y: moment("2018-06-09 02:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 03:45 PM")
   },
   {
@@ -1032,7 +1032,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-09 09:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 10:30 PM")
   },
   {
@@ -1043,7 +1043,7 @@ export default [
     Subcategory: "Indie R&B",
     Genre: "Indie",
     y: moment("2018-06-09 02:00 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 02:45 PM")
   },
   {
@@ -1054,7 +1054,7 @@ export default [
     Subcategory: "Art Pop",
     Genre: "Indie",
     y: moment("2018-06-10 02:15 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-010 03:00 PM")
   },
   {
@@ -1065,7 +1065,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-10 04:00 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-010 04:45 PM")
   },
   {
@@ -1076,7 +1076,7 @@ export default [
     Subcategory: "Electro Pop / Indie Pop",
     Genre: "Indie",
     y: moment("2018-06-09 07:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-09 08:45 PM")
   },
   {
@@ -1087,7 +1087,7 @@ export default [
     Subcategory: "Indie Rock",
     Genre: "Indie",
     y: moment("2018-06-07 05:45 PM"),
-    color: "#46B3B3",
+    color: "#AF86AF",
     endTime: moment("2018-06-07 06:30 PM")
   },
   {

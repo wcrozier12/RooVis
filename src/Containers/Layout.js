@@ -3,6 +3,7 @@ import ArtistGraph from "../Graph";
 import artistDataWhole from "../Data/artistDataWhole";
 import Select from "react-select";
 import "react-select/dist/react-select.css";
+import logo from "../assets/rooLogo.png";
 const selectWrapperStyle = {
   display: "flex",
   justifyContent: "space-around",
@@ -78,7 +79,8 @@ export default class Layout extends Component {
   render() {
     const { loading, filters, data } = this.state;
     return !loading ? (
-      <div>
+      <div style={{ textAlign: "center" }}>
+        <img src={logo} alt="logo" />
         <div style={selectWrapperStyle}>
           <Select
             wrapperStyle={selectStyle}

@@ -28,14 +28,14 @@ export default class CustomTooltip extends Component {
           opacity: "0.97"
         }}
       >
-        <foreignObject x={x} y={y} width="80" height="50">
+        <foreignObject x={x} y={y} width="100" height="50">
           <div
             style={{
               marginLeft: "5px",
               color: "#D9D9DF",
-              padding: "3px 3px 3px 10px",
+              padding: "3px 3px 3px 3px",
               backgroundColor: "#3E3E3E",
-              borderRadius: "10%"
+              borderRadius: "15%"
             }}
           >
             <span>{datum.Artist}</span>
@@ -44,7 +44,12 @@ export default class CustomTooltip extends Component {
             <br />
             <span>Time: {datum.Time}</span>
             <br />
-            <span>{datum.Category ? `Genre: ${datum.Genre}` : ""}</span>
+            <span>{datum.Genre ? `Genre: ${datum.Genre}` : ""}</span>
+            <br />
+
+            <span>
+              {datum.Subcategory ? `Genre: ${datum.Subcategory}` : ""}
+            </span>
           </div>
         </foreignObject>
       </g>

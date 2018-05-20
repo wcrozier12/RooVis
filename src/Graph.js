@@ -47,24 +47,22 @@ class ArtistGraph extends Component {
     const { data } = this.props;
     return (
       <div>
-        <div>
-          <VictoryChart
-            scale={"time"}
-            padding={{ top: 40, bottom: 40, left: 40, right: 100 }}
-            width={800}
-            height={370}
-            domainPadding={{ x: 150 }}
-            style={{ parent: { overflow: "visible", margin: "0" } }}
-          >
-            <VictoryAxis style={{ tickLabels: { fontSize: 6 } }} />
-            <VictoryAxis
-              style={{ tickLabels: { fontSize: 6 } }}
-              dependentAxis
-              tickCount={12}
-            />
-            {this.renderSeries()}
-          </VictoryChart>
-        </div>
+        <VictoryChart
+          scale={"time"}
+          padding={{ top: 40, bottom: 40, left: 40, right: 100 }}
+          width={800}
+          height={370}
+          domainPadding={{ x: 150 }}
+          style={{ parent: { overflow: "visible", margin: "0" } }}
+        >
+          <VictoryAxis style={{ tickLabels: { fontSize: 6 } }} />
+          <VictoryAxis
+            style={{ tickLabels: { fontSize: 6 } }}
+            dependentAxis
+            tickCount={12}
+          />
+          {this.renderSeries()}
+        </VictoryChart>
       </div>
     );
   }
